@@ -1,0 +1,13 @@
+#canvas {
+  border: solid 4px;
+  margin: 20px;
+  padding: 15px;
+}
+
+.column {
+  border: solid 0.5px;
+  width: 40px;
+  height: 40px;
+  margin: 0px;
+
+}
