@@ -67,7 +67,7 @@ function pixelPainterBox(rows, cols){
       }
     }
   }
-pixelPainterBox(40,74);
+pixelPainterBox(30,54);
 //end grid module patters
 
 var randomColor = null;
